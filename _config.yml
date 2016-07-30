@@ -1,0 +1,14 @@
+layout_spectrum: 0.997932389145717
+typography_spectrum: 0.85902448464185
+color:
+  brandStrength: 0.47812707629054785
+  lightness: 0.7200325573794544
+  saturation: 0.3037843909114599
+  rhythmicContrast: 0.20677160285413265
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Infomatters
