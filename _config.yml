@@ -16,5 +16,8 @@ navigation:
   - name: Space Odyssey
     id: d4a8aadd-702a-482f-a658-e7a84c662844
     type: content
+  - name: Web
+    id: 8738feee-091c-4635-811d-d24e53bb01a0
+    type: content
 title: Business
 description: hello business
