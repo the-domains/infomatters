@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.997932389145717
 name: Infomatters
+navigation:
+  - name: Space Odyssey
+    id: d4a8aadd-702a-482f-a658-e7a84c662844
+    type: content
 title: Business
 description: hello business
