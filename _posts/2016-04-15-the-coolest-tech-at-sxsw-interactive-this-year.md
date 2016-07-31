@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T21:48:01.246Z'
+datePublished: '2016-07-31T16:04:33.108Z'
 sourcePath: _posts/2016-04-15-the-coolest-tech-at-sxsw-interactive-this-year.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,7 @@ author:
   - name: '@alexbracetti'
     url: 'https://www.twitter.com/@alexbracetti'
     avatar: {}
-dateModified: '2016-07-30T21:48:01.143Z'
+dateModified: '2016-07-31T16:04:32.814Z'
 title: The Coolest Tech at SXSW Interactive This Year
 app_links:
   - namespace: twitter
