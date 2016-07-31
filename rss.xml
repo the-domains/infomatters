@@ -4,8 +4,15 @@
         <description><![CDATA[Infomatters]]></description>
         <link>http://infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 16:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 16:06:10 GMT</lastBuildDate>
         <atom:link href="http://infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[High Velocity Aerial Filming]]></title>
+            <description><![CDATA[<article><h1>High Velocity Aerial Filming</h1><p>Aerial Filming took a giant leap forward when Blue Sky and Peter Degerfeldt challenged Gyro-stabilized Systems in Grass Valley, US, to build a GSS 520 5 axis system that would produce rock solid images at a speed of more than 300 knots per hour.</p></article>]]></description>
+            <link>https://vimeo.com/162088181</link>
+            <guid isPermaLink="false">9d2dc181-89a5-417f-99d9-6f66bcc30dc1</guid>
+            <pubDate>Sun, 31 Jul 2016 16:04:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sevenhugs' Smart Remote]]></title>
             <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
             <guid isPermaLink="false">6b753b94-b7ff-49d5-87d3-a80258cc9f3f</guid>
             <pubDate>Sat, 30 Jul 2016 21:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mighty Audio's Portable Player]]></title>
-            <description><![CDATA[<article><h1>Mighty Audio's Portable Player</h1><p>There's now a tech solution for those who are tired of having their phone tag along on fitness activities but don't want to give up their perfectly tailored Spotify playlists. Allowing runners, bikers and others to detach from the physical (and mental) weight of smartphones is Mighty Audio, which launches on Kickstarter today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7070b4eedc96d243e3c8c36783d47700e6d7d910.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/tech/mighty-kickstarter-portable-media-player-spotify-streaming</link>
-            <guid isPermaLink="false">43f1aeed-05e3-4e62-b250-d1a3bbcf5bf7</guid>
-            <pubDate>Sat, 30 Jul 2016 19:47:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
