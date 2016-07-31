@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T19:47:54.573Z'
+datePublished: '2016-07-31T16:04:33.116Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
@@ -17,7 +17,7 @@ keywords:
   - pointing
 related: []
 author: []
-dateModified: '2016-07-30T19:47:50.195Z'
+dateModified: '2016-07-31T16:04:32.832Z'
 title: Sevenhugs' Smart Remote
 app_links: []
 publisher:
