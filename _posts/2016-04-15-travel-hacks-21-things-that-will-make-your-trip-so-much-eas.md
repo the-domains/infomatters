@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T19:47:54.625Z'
+datePublished: '2016-07-31T16:04:33.110Z'
 sourcePath: >-
   _posts/2016-04-15-travel-hacks-21-things-that-will-make-your-trip-so-much-eas.md
 inFeed: true
@@ -23,7 +23,7 @@ author:
   - name: Hilary White
     url: 'http://www.popsugar.com/author/Hilary-White'
     avatar: {}
-dateModified: '2016-07-30T19:47:50.539Z'
+dateModified: '2016-07-31T16:04:32.947Z'
 title: 'Travel Hacks: 21 Things That Will Make Your Trip So Much Easier'
 app_links: []
 publisher:
