@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-30T19:47:54.633Z'
+datePublished: '2016-07-31T16:04:33.968Z'
 sourcePath: _posts/2016-04-15-mighty-audios-portable-player.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - downloading
 related: []
 author: []
-dateModified: '2016-07-30T19:47:52.481Z'
+dateModified: '2016-07-31T16:04:33.759Z'
 title: Mighty Audio's Portable Player
 app_links: []
 publisher:
