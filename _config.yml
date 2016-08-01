@@ -11,13 +11,7 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.997932389145717
-name: Infomatters
-navigation:
-  - name: Space Odyssey
-    id: d4a8aadd-702a-482f-a658-e7a84c662844
-    type: content
-  - name: Web
-    id: 8738feee-091c-4635-811d-d24e53bb01a0
-    type: content
+name: Information Matters
+navigation: []
 title: Information is what matters
 description: hello business
