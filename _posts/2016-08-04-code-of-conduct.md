@@ -1,23 +1,22 @@
 ---
+datePublished: '2016-08-04T14:55:10.714Z'
+sourcePath: _posts/2016-08-04-code-of-conduct.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-04T14:55:09.863Z'
+title: Code of Conduct
+publisher: {}
 description: >-
   We aim to be a role model in adherence to governments rules and regulations as
   we see mutual benefits in the growth of economy and creating a healthier
   ecosystem for our businesses to run and operate.
-dateModified: '2016-08-04T14:35:34.331Z'
-datePublished: '2016-08-04T14:35:48.161Z'
-title: Code of Conduct
-author: []
-publisher: {}
-via: {}
 starred: true
-sourcePath: _posts/2016-08-04-code-of-conduct.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: code-of-conduct/index.html
+_type: Blurb
 
 ---
-# Code of Conduct
+# **Code of Conduct**
 
 ### **COMPLIANCE**
 
