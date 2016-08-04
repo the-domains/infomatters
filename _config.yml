@@ -12,6 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.997932389145717
 name: Information Matters
-navigation: []
+navigation:
+  - name: Code of Conduct
+    id: 1ca0fedd-ce71-491e-aba3-19050af1cb5f
+    type: content
 title: Information is what matters
 description: hello business
