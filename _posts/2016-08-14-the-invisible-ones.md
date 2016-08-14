@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T16:21:22.432Z'
+datePublished: '2016-08-14T16:22:10.152Z'
 sourcePath: _posts/2016-08-14-the-invisible-ones.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-14T16:21:19.977Z'
+dateModified: '2016-08-14T16:22:06.711Z'
 title: Tribute
 publisher: {}
 description: ''
@@ -14,7 +14,7 @@ _type: Blurb
 ---
 # Tribute
 
-## Here's to the invisible ones.  
+# Here's to the invisible ones.  
 The bohemians. The empiricists.   
 The free-minds and the mediators.   
 The shadow lives in the bright spots.   
