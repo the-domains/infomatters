@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-14T15:51:19.890Z'
+datePublished: '2016-08-14T16:02:14.601Z'
 sourcePath: _posts/2016-08-14-the-invisible-ones.md
 author: []
 via: {}
-dateModified: '2016-08-14T15:51:18.962Z'
+dateModified: '2016-08-14T16:02:03.006Z'
 title: >-
   Here's to the invisible ones. The bohemians. The empiricists. The free-minds
   and the mediators. The shadow lives in the bright spots. The ones who make
@@ -22,7 +22,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# Here's to the invisible ones.  
+## Here's to the invisible ones.  
 The bohemians. The empiricists.  
 The free-minds and the mediators.  
 The shadow lives in the bright spots.  
