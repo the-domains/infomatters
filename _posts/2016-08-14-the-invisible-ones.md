@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T16:19:31.763Z'
+datePublished: '2016-08-14T16:20:12.575Z'
 sourcePath: _posts/2016-08-14-the-invisible-ones.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-14T16:19:13.179Z'
+dateModified: '2016-08-14T16:20:09.107Z'
 title: A Tribute To The Invisible Ones
 publisher: {}
 description: ''
@@ -12,7 +12,7 @@ starred: true
 _type: Blurb
 
 ---
-## A Tribute To The Invisible Ones
+# A Tribute To The Invisible Ones
 
 ## Here's to the invisible ones.  
 The bohemians. The empiricists.   
