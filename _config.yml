@@ -1,4 +1,3 @@
-layout_spectrum: 0.46041892911307514
 typography_spectrum: 0.7538243520539254
 color:
   brandStrength: 0.4816399570554495
@@ -11,10 +10,15 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.46041892911307514
 author:
   email: Baker@Shamlan.sa
   url: ''
   name: Baker Shamlan
 name: Information Matters
+navigation:
+  - name: About
+    id: cff52f2f-f989-437d-a272-568e23864d05
+    type: content
 title: Information Matters
 description: Under Development
