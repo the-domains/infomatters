@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T19:34:05.314Z'
+datePublished: '2016-08-19T19:34:18.069Z'
 sourcePath: _posts/2016-08-19-about-information-matters.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T19:34:04.453Z'
+dateModified: '2016-08-19T19:34:17.225Z'
 title: About Information Matters
 publisher: {}
 description: >-
