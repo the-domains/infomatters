@@ -1,16 +1,16 @@
-typography_spectrum: 0.393162107327953
+layout_spectrum: 0.46041892911307514
+typography_spectrum: 0.7538243520539254
 color:
-  brandStrength: 0.6184980617836118
-  lightness: 0.3036181712523103
-  saturation: 0.15254823211580515
-  rhythmicContrast: 0.4178599233273417
+  brandStrength: 0.4816399570554495
+  lightness: 0.9677621552255005
+  saturation: 0.8124653259292245
+  rhythmicContrast: 0.8158995821140707
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.46041892911307514
 author:
   email: Baker@Shamlan.sa
   url: ''
