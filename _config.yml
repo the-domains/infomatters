@@ -1,20 +1,36 @@
-typography_spectrum: 0.17219624086283147
+author:
+  email: Baker@Shamlan.sa
+  url: ''
+  name: Baker Shamlan
+title: Information Matters
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.6184980617836118
-  lightness: 0.3036181712523103
-  saturation: 0.15254823211580515
-  rhythmicContrast: 0.4178599233273417
+  saturation: 0.8124653259292245
+  brandStrength: 0.4816399570554495
+  rhythmicContrast: 0.8158995821140707
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.7617363419849426
-author:
-  email: ''
-  url: ''
-  name: ''
-name: Information Matters
-title: Information Matters
+  lightness: 0.9677621552255005
+typography_spectrum: 0.7538243520539254
 description: Under Development
+navigation:
+  - name: About
+    id: cff52f2f-f989-437d-a272-568e23864d05
+    type: content
+layout_spectrum: 0.2531915
+name: Information Matters
