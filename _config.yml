@@ -16,16 +16,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8124653259292245
+  saturation: 1
   brandStrength: 0
-  lightness: 0.9677621552255005
+  lightness: 1
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  rhythmicContrast: 0.8158995821140707
+  rhythmicContrast: 1
 typography_spectrum: 0.7538243520539254
 description: Under Development
 navigation:
